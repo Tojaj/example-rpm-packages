@@ -1,0 +1,4 @@
+ADD_EXECUTABLE(sterling main.c)
+TARGET_LINK_LIBRARIES(sterling ${GLIB2_LIBRARIES})
+CONFIGURE_FILE("config.h.in" "${CMAKE_CURRENT_SOURCE_DIR}/config.h" @ONLY)
+INSTALL(TARGETS sterling DESTINATION /usr/bin/)

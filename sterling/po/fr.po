@@ -1,0 +1,22 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Tomas Mlcoch <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Archer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-10 23:10+0100\n"
+"PO-Revision-Date: 2014-03-10 23:10+0100\n"
+"Last-Translator: Tomas Mlcoch <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/main.c:16
+msgid "Hello\n"
+msgstr "Bonjour\n"

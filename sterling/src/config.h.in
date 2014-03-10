@@ -1,0 +1,6 @@
+#ifndef STERLING_CONFIG_H
+#define STERLING_CONFIG_H
+
+#define LOCALEDIR "@LOCALEDIR@"
+
+#endif
