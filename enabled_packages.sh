@@ -1,2 +1,2 @@
 #!/bin/bash
-PACKAGES=( "sterling" )
+PACKAGES=( "sterling" "tdcc" )

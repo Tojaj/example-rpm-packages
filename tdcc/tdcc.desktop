@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=TDCC
+GenericName=TDCC Hello world example
+Comment=GTK GUI Hello world example
+Exec=tdcc
+Terminal=false
+Type=Application
+Categories=Utility;
+StartupNotify=true

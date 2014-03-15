@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+
+import tdcc
+
+if __name__ == "__main__":
+    hello = tdcc.HelloWorld()
+    hello.main()

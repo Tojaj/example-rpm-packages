@@ -1,3 +1,4 @@
 PACKAGES/
 */build/*
 */*.tar.xz
+*.pyc
